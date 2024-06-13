@@ -7,7 +7,7 @@ PShape dap;
 // DAP
 
 void setup() {
-  size(750, 700, P3D);
+  size(1000, 1000, P3D);
   dap = createShape(GROUP);
 
   //Huruf ID

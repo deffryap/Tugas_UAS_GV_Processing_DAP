@@ -10,7 +10,7 @@ boolean scaleUp, scaleDown;
 boolean flipHorizontal;
 
 void setup(){
-  size(1000, 700, P3D);
+  size(1000, 1000, P2D);
   
   //DAP
   dap = createShape(GROUP);
